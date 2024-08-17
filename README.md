@@ -1,5 +1,3 @@
-# html-photo-app
-# FreeCodeAcademy tutorial code
  <head>
     
     <title>CatPhotoApp</title>
